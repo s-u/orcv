@@ -5,6 +5,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 #include <sys/types.h>
+#include "barrier.h"
 #include "start.h"
 #include "tsqueue.h"
 
